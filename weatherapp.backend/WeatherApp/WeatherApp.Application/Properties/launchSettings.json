@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WeatherApp.Application": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
